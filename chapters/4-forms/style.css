@@ -1,0 +1,7 @@
+.form-group.form-error label {
+    color: red;
+}
+
+.form-group.form-error input, .form-group.form-error textarea {
+    border: 3px solid red;
+}
